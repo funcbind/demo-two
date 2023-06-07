@@ -1,6 +1,7 @@
-# demo-two
-Learning github
+# Demo Two Project
 
+## # Introduction
 
-update readme file 
-Testing changes to readme file
+## # Code of Conduct
+
+## # How to contribute
