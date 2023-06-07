@@ -1,4 +1,6 @@
 # Demo Two Project
+This is simple project to learn about git and github.
+
 
 ## # Introduction
 
